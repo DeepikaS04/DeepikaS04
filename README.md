@@ -18,7 +18,7 @@
 
 <h5> I have a keen interest in coding in C++. Here's my LeetCode Stats </h5>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Deepika_S_Srivastava?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Deepika_S_Srivastava?ext=heatmap&theme=unicorn)
 
 <h5> Have a look at my GitHub Stats </h5>
 
