@@ -1,17 +1,13 @@
 
 <h1 align="center">
-  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc5ZmZmOTQxMzRiMzY1ZGUzNmM4NWE3M2QwN2NhN2RiMzkzYjU0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KiMBUPZUhUg4HRV6PW/giphy.gif" width=1000 height=300>
+  <img src = "https://github.com/DeepikaS04/DeepikaS04/blob/main/trial.svg" width=1000 height=300>
   </h1>
-  <style>
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
-</style>
-  <h2 font-family: 'Dancing Script', cursive>
- Deepika this side. </h2>
+ 
   
   ```css
   #Skills
   {
-  [HTML, CSS , JS , C++ , Python , Machine Learning ]
+  [HTML, CSS , JS , C++ , Python , Machine Learning , SQL , Tableau ]
   }
   ```
   <h4> These are some of my projects </h4>
