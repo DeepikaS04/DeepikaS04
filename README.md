@@ -22,6 +22,6 @@
 
 <h5> Have a look at my GitHub Stats </h5>
 
-![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepikaS04&show_icons=true&theme=radical)
+![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepikaS04&show_icons=true&theme=unicorn)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepikaS04&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
