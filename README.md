@@ -3,6 +3,9 @@
   <img src = "https://github.com/DeepikaS04/DeepikaS04/blob/main/trial.svg" width=1000 height=300>
   </h1>
  
+ <h4> 
+  I like to find a way to write short codes when doing DSA.
+  </h4>
   
   ```css
   #Skills
